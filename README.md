@@ -1,4 +1,4 @@
-# Mobil-Oyun-zerine-leri-Seviye-Metrik-Analizi
+# Mobil-Oyun-Üzerine-İleri-Seviye-Metrik-Analizi
 ARPDAU, Revenue, DAU, D14 LTV, Ortalama Oyun Süresi gibi metriklerin detaylı hesaplanması.
 # mobile-game-metrics-advanced
 
